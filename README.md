@@ -21,13 +21,16 @@ It helps businesses track stock levels, manage inventory, and monitor updates in
 
 ## 🛠 Tech Stack
 
-* **Frontend:** React + TypeScript + Vite
-* **Styling:** Tailwind CSS + PostCSS
-* **Backend/Database:** Firebase Firestore
-* **Auth:** Firebase Authentication
-* **Build Tool:** Vite
-* **Linting:** ESLint
-* **Package Manager:** npm / bun
+| Layer               | Technology Used         |
+| ------------------- | ----------------------- |
+| **Frontend**        | React, TypeScript, Vite |
+| **Styling**         | Tailwind CSS, PostCSS   |
+| **Backend/DB**      | Firebase Firestore      |
+| **Authentication**  | Firebase Authentication |
+| **Build Tool**      | Vite                    |
+| **Linting**         | ESLint                  |
+| **Package Manager** | npm / bun               |
+
 
 ---
 
